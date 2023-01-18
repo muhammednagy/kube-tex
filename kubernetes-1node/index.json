@@ -17,12 +17,12 @@
       {
         "title": "create nginx deployment",
         "text": "step3.md",
-        "background": "foreground.sh"
+        "background": "step3.sh"
       },
       {
         "title": "fix deployment issue",
         "text": "step4.md",
-        "background": "foreground.sh"
+        "background": "step4.sh"
       }
     ],
     "finish": {
