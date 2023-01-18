@@ -9,6 +9,15 @@
       {
         "title": "List all pods",
         "text": "step1.md"
+      },
+      {
+        "title": "run a simple nginx pod",
+        "text": "step1.md"
+      },
+      {
+        "title": "run a simple nginx pod",
+        "text": "step1.md",
+        "foreground": "foreground.sh"
       }
     ],
     "finish": {

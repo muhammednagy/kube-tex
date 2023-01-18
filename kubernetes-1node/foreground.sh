@@ -1,0 +1,1 @@
+k delete po my-nginx --force
