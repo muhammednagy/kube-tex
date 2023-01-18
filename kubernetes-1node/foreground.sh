@@ -1,1 +1,1 @@
-k delete po my-nginx --force
+kubectl delete po my-nginx --force

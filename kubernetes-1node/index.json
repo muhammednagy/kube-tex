@@ -12,12 +12,12 @@
       },
       {
         "title": "run a simple nginx pod",
-        "text": "step1.md"
+        "text": "step2.md"
       },
       {
-        "title": "run a simple nginx pod",
-        "text": "step1.md",
-        "foreground": "foreground.sh"
+        "title": "create nginx deployment",
+        "text": "step3.md",
+        "background": "foreground.sh"
       }
     ],
     "finish": {
