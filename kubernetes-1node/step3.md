@@ -1,6 +1,8 @@
 Let's create an nginx deployment with 3 replicas
 `k create deployment nginx --image=nginx --replicas=3`
 
+check now `k get po`
+
 you can scale it like this
 `kubectl scale deployment/nginx --replicas=10
 `
