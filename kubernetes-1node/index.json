@@ -5,6 +5,11 @@
     "intro": {
       "text": "intro.md"
     },
+    "assets": {
+      "host01": [
+        {"file": "dashboard.yaml", "target": "/root", "chmod": "+w"}
+      ]
+    },
     "steps": [
       {
         "title": "List all pods",
@@ -23,6 +28,19 @@
         "title": "fix deployment issue",
         "text": "step4.md",
         "background": "step4.sh"
+      },
+      {
+        "title": "namespaces",
+        "text": "step5.md"
+      },
+      {
+        "title": "k9s",
+        "text": "step6.md",
+        "foreground": "step6.sh"
+      },
+      {
+        "title": "k8s dashboard",
+        "text": "step7.md",
       }
     ],
     "finish": {
